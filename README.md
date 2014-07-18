@@ -1,4 +1,4 @@
 dangular.js
 ===========
 
-An Angular.js boilerplate
+A web app boilerplate built on Angular.js and Bootstrap
